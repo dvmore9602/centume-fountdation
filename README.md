@@ -1,2 +1,2 @@
 # centume-fountdation
-capstone project
+crypstone project
